@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\Examples03\Example008_Intro\bin\Debug\net7.0\Example008_Intro.exe
+C:\Users\Никита\Desktop\Examples03\Example008_Intro\bin\Debug\net7.0\Example008_Intro.deps.json
+C:\Users\Никита\Desktop\Examples03\Example008_Intro\bin\Debug\net7.0\Example008_Intro.runtimeconfig.json
+C:\Users\Никита\Desktop\Examples03\Example008_Intro\bin\Debug\net7.0\Example008_Intro.dll
+C:\Users\Никита\Desktop\Examples03\Example008_Intro\bin\Debug\net7.0\Example008_Intro.pdb
+C:\Users\Никита\Desktop\Examples03\Example008_Intro\obj\Debug\net7.0\Example008_Intro.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\Examples03\Example008_Intro\obj\Debug\net7.0\Example008_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\Examples03\Example008_Intro\obj\Debug\net7.0\Example008_Intro.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\Examples03\Example008_Intro\obj\Debug\net7.0\Example008_Intro.AssemblyInfo.cs
+C:\Users\Никита\Desktop\Examples03\Example008_Intro\obj\Debug\net7.0\Example008_Intro.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Examples03\Example008_Intro\obj\Debug\net7.0\Example008_Intro.dll
+C:\Users\Никита\Desktop\Examples03\Example008_Intro\obj\Debug\net7.0\refint\Example008_Intro.dll
+C:\Users\Никита\Desktop\Examples03\Example008_Intro\obj\Debug\net7.0\Example008_Intro.pdb
+C:\Users\Никита\Desktop\Examples03\Example008_Intro\obj\Debug\net7.0\Example008_Intro.genruntimeconfig.cache
+C:\Users\Никита\Desktop\Examples03\Example008_Intro\obj\Debug\net7.0\ref\Example008_Intro.dll
