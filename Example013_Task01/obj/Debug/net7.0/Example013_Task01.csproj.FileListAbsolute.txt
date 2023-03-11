@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\Examples03\Example013_Task01\obj\Debug\net7.0\Example013_Task01.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\Examples03\Example013_Task01\obj\Debug\net7.0\Example013_Task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\Examples03\Example013_Task01\obj\Debug\net7.0\Example013_Task01.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\Examples03\Example013_Task01\obj\Debug\net7.0\Example013_Task01.AssemblyInfo.cs
+C:\Users\Никита\Desktop\Examples03\Example013_Task01\obj\Debug\net7.0\Example013_Task01.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Examples03\Example013_Task01\bin\Debug\net7.0\Example013_Task01.exe
+C:\Users\Никита\Desktop\Examples03\Example013_Task01\bin\Debug\net7.0\Example013_Task01.deps.json
+C:\Users\Никита\Desktop\Examples03\Example013_Task01\bin\Debug\net7.0\Example013_Task01.runtimeconfig.json
+C:\Users\Никита\Desktop\Examples03\Example013_Task01\bin\Debug\net7.0\Example013_Task01.dll
+C:\Users\Никита\Desktop\Examples03\Example013_Task01\bin\Debug\net7.0\Example013_Task01.pdb
+C:\Users\Никита\Desktop\Examples03\Example013_Task01\obj\Debug\net7.0\Example013_Task01.dll
+C:\Users\Никита\Desktop\Examples03\Example013_Task01\obj\Debug\net7.0\refint\Example013_Task01.dll
+C:\Users\Никита\Desktop\Examples03\Example013_Task01\obj\Debug\net7.0\Example013_Task01.pdb
+C:\Users\Никита\Desktop\Examples03\Example013_Task01\obj\Debug\net7.0\Example013_Task01.genruntimeconfig.cache
+C:\Users\Никита\Desktop\Examples03\Example013_Task01\obj\Debug\net7.0\ref\Example013_Task01.dll
