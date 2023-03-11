@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\Examples03\Example013_RecurcionAlgorithm\obj\Debug\net7.0\Example013_RecurcionAlgorithm.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\Examples03\Example013_RecurcionAlgorithm\obj\Debug\net7.0\Example013_RecurcionAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\Examples03\Example013_RecurcionAlgorithm\obj\Debug\net7.0\Example013_RecurcionAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\Examples03\Example013_RecurcionAlgorithm\obj\Debug\net7.0\Example013_RecurcionAlgorithm.AssemblyInfo.cs
+C:\Users\Никита\Desktop\Examples03\Example013_RecurcionAlgorithm\obj\Debug\net7.0\Example013_RecurcionAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Examples03\Example013_RecurcionAlgorithm\bin\Debug\net7.0\Example013_RecurcionAlgorithm.exe
+C:\Users\Никита\Desktop\Examples03\Example013_RecurcionAlgorithm\bin\Debug\net7.0\Example013_RecurcionAlgorithm.deps.json
+C:\Users\Никита\Desktop\Examples03\Example013_RecurcionAlgorithm\bin\Debug\net7.0\Example013_RecurcionAlgorithm.runtimeconfig.json
+C:\Users\Никита\Desktop\Examples03\Example013_RecurcionAlgorithm\bin\Debug\net7.0\Example013_RecurcionAlgorithm.dll
+C:\Users\Никита\Desktop\Examples03\Example013_RecurcionAlgorithm\bin\Debug\net7.0\Example013_RecurcionAlgorithm.pdb
+C:\Users\Никита\Desktop\Examples03\Example013_RecurcionAlgorithm\obj\Debug\net7.0\Example013_RecurcionAlgorithm.dll
+C:\Users\Никита\Desktop\Examples03\Example013_RecurcionAlgorithm\obj\Debug\net7.0\refint\Example013_RecurcionAlgorithm.dll
+C:\Users\Никита\Desktop\Examples03\Example013_RecurcionAlgorithm\obj\Debug\net7.0\Example013_RecurcionAlgorithm.pdb
+C:\Users\Никита\Desktop\Examples03\Example013_RecurcionAlgorithm\obj\Debug\net7.0\Example013_RecurcionAlgorithm.genruntimeconfig.cache
+C:\Users\Никита\Desktop\Examples03\Example013_RecurcionAlgorithm\obj\Debug\net7.0\ref\Example013_RecurcionAlgorithm.dll

@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\Examples03\Example013_Fibonachi\bin\Debug\net7.0\Example013_Fibonachi.exe
+C:\Users\Никита\Desktop\Examples03\Example013_Fibonachi\bin\Debug\net7.0\Example013_Fibonachi.deps.json
+C:\Users\Никита\Desktop\Examples03\Example013_Fibonachi\bin\Debug\net7.0\Example013_Fibonachi.runtimeconfig.json
+C:\Users\Никита\Desktop\Examples03\Example013_Fibonachi\bin\Debug\net7.0\Example013_Fibonachi.dll
+C:\Users\Никита\Desktop\Examples03\Example013_Fibonachi\bin\Debug\net7.0\Example013_Fibonachi.pdb
+C:\Users\Никита\Desktop\Examples03\Example013_Fibonachi\obj\Debug\net7.0\Example013_Fibonachi.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\Examples03\Example013_Fibonachi\obj\Debug\net7.0\Example013_Fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\Examples03\Example013_Fibonachi\obj\Debug\net7.0\Example013_Fibonachi.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\Examples03\Example013_Fibonachi\obj\Debug\net7.0\Example013_Fibonachi.AssemblyInfo.cs
+C:\Users\Никита\Desktop\Examples03\Example013_Fibonachi\obj\Debug\net7.0\Example013_Fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Examples03\Example013_Fibonachi\obj\Debug\net7.0\Example013_Fibonachi.dll
+C:\Users\Никита\Desktop\Examples03\Example013_Fibonachi\obj\Debug\net7.0\refint\Example013_Fibonachi.dll
+C:\Users\Никита\Desktop\Examples03\Example013_Fibonachi\obj\Debug\net7.0\Example013_Fibonachi.pdb
+C:\Users\Никита\Desktop\Examples03\Example013_Fibonachi\obj\Debug\net7.0\Example013_Fibonachi.genruntimeconfig.cache
+C:\Users\Никита\Desktop\Examples03\Example013_Fibonachi\obj\Debug\net7.0\ref\Example013_Fibonachi.dll

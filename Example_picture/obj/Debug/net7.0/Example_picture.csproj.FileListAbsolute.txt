@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\Examples03\Example_picture\obj\Debug\net7.0\Example_picture.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\Examples03\Example_picture\obj\Debug\net7.0\Example_picture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\Examples03\Example_picture\obj\Debug\net7.0\Example_picture.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\Examples03\Example_picture\obj\Debug\net7.0\Example_picture.AssemblyInfo.cs
+C:\Users\Никита\Desktop\Examples03\Example_picture\obj\Debug\net7.0\Example_picture.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Examples03\Example_picture\bin\Debug\net7.0\Example_picture.exe
+C:\Users\Никита\Desktop\Examples03\Example_picture\bin\Debug\net7.0\Example_picture.deps.json
+C:\Users\Никита\Desktop\Examples03\Example_picture\bin\Debug\net7.0\Example_picture.runtimeconfig.json
+C:\Users\Никита\Desktop\Examples03\Example_picture\bin\Debug\net7.0\Example_picture.dll
+C:\Users\Никита\Desktop\Examples03\Example_picture\bin\Debug\net7.0\Example_picture.pdb
+C:\Users\Никита\Desktop\Examples03\Example_picture\obj\Debug\net7.0\Example_picture.dll
+C:\Users\Никита\Desktop\Examples03\Example_picture\obj\Debug\net7.0\refint\Example_picture.dll
+C:\Users\Никита\Desktop\Examples03\Example_picture\obj\Debug\net7.0\Example_picture.pdb
+C:\Users\Никита\Desktop\Examples03\Example_picture\obj\Debug\net7.0\Example_picture.genruntimeconfig.cache
+C:\Users\Никита\Desktop\Examples03\Example_picture\obj\Debug\net7.0\ref\Example_picture.dll
